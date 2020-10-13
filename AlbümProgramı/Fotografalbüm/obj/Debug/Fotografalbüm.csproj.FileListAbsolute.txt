@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Fotografalbüm\Fotografalbüm\bin\Debug\Fotografalbüm.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Fotografalbüm\Fotografalbüm\bin\Debug\Fotografalbüm.exe
+c:\users\admin\documents\visual studio 2015\Projects\Fotografalbüm\Fotografalbüm\bin\Debug\Fotografalbüm.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Fotografalbüm\Fotografalbüm\obj\Debug\Fotografalbüm.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Fotografalbüm\Fotografalbüm\obj\Debug\Fotografalbüm.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Fotografalbüm\Fotografalbüm\obj\Debug\Fotografalbüm.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Fotografalbüm\Fotografalbüm\obj\Debug\Fotografalbüm.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Fotografalbüm\Fotografalbüm\obj\Debug\Fotografalbüm.exe
+c:\users\admin\documents\visual studio 2015\Projects\Fotografalbüm\Fotografalbüm\obj\Debug\Fotografalbüm.pdb

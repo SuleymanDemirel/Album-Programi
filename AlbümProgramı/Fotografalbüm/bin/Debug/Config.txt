@@ -1,0 +1,8 @@
+Point Green Getdown
+2 Saniye
+Göster
+Gizle
+Font: Name=Microsoft Sans Serif, Size=8,25, Units=3, GdiCharSet=162, GdiVerticalFont=False]
+Black]
+
+]
